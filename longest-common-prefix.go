@@ -1,4 +1,4 @@
-package maileetcode_go
+package leetcode_go
 
 func longestCommonPrefix(strs []string) string {
 	if len(strs) == 0 {
